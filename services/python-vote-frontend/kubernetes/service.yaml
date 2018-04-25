@@ -1,7 +1,7 @@
 kind: Service
 apiVersion: v1
 metadata:
-  name: python-vote-frontend-service
+  name: python-frontend-service
   namespace: XX_NAMESPACE_XX
 spec:
   selector:
